@@ -3,7 +3,7 @@ ML-prictice-DataSet
 Speaker Accent Recognition Data Set
 =====================================
 
-Structuraly modified data. This repository does not include all files from the original library.
+This repository does not include all files from the original library.
 
 Please refer to:
 
